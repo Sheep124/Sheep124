@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sheep124
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Data Mining
 - 💞️ I’m looking to collaborate on Data analysis / Blockchain SSI project
 - 📫 Reach me with kennethwmy341@gmail.com
 
