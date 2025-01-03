@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Sheep124
-- 👀 I’m interested in Computer Science
-- 💞️ I’m looking to collaborate on Data analysis / Blockchain SSI project
-- 📫 Reach me with kennethwmy341@gmail.com
+### **Refined GitHub Bio:**  
+🚀 **Blockchain SSI Developer | AI/ML Enthusiast**  
+🔗 Currently working on **integrating ACA-Py with Ethereum** to enhance decentralized identity solutions.  
+🤖 Passionate about leveraging **AI/ML** to drive smarter, data-driven systems.  
+🌍 Bridging the gap between **Self-Sovereign Identity (SSI)**, **Blockchain**, and **Artificial Intelligence**.  
+📚 Lifelong learner exploring emerging technologies.  
+📫 **kennethwmy341@gmail.com**
 
-<!---
-Sheep124/Sheep124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let me know if you'd like further tweaks!
